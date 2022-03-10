@@ -1,0 +1,15 @@
+/home/reynan/Área de Trabalho/Pokedex/obj/Debug/net6.0/Pokedex.csproj.AssemblyReference.cache
+/home/reynan/Área de Trabalho/Pokedex/obj/Debug/net6.0/Pokedex.GeneratedMSBuildEditorConfig.editorconfig
+/home/reynan/Área de Trabalho/Pokedex/obj/Debug/net6.0/Pokedex.AssemblyInfoInputs.cache
+/home/reynan/Área de Trabalho/Pokedex/obj/Debug/net6.0/Pokedex.AssemblyInfo.cs
+/home/reynan/Área de Trabalho/Pokedex/obj/Debug/net6.0/Pokedex.csproj.CoreCompileInputs.cache
+/home/reynan/Área de Trabalho/Pokedex/bin/Debug/net6.0/Pokedex
+/home/reynan/Área de Trabalho/Pokedex/bin/Debug/net6.0/Pokedex.deps.json
+/home/reynan/Área de Trabalho/Pokedex/bin/Debug/net6.0/Pokedex.runtimeconfig.json
+/home/reynan/Área de Trabalho/Pokedex/bin/Debug/net6.0/Pokedex.dll
+/home/reynan/Área de Trabalho/Pokedex/bin/Debug/net6.0/Pokedex.pdb
+/home/reynan/Área de Trabalho/Pokedex/obj/Debug/net6.0/Pokedex.dll
+/home/reynan/Área de Trabalho/Pokedex/obj/Debug/net6.0/refint/Pokedex.dll
+/home/reynan/Área de Trabalho/Pokedex/obj/Debug/net6.0/Pokedex.pdb
+/home/reynan/Área de Trabalho/Pokedex/obj/Debug/net6.0/Pokedex.genruntimeconfig.cache
+/home/reynan/Área de Trabalho/Pokedex/obj/Debug/net6.0/ref/Pokedex.dll
