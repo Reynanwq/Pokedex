@@ -4,7 +4,14 @@ Essa lista tem as primeiras 151 espécies de Pokémon, tendo por início os Pok�
 
 Mini game: Escolha 1 dentre os 151 pokémons da lista e o Computador escolherá outro, o mais forte vencerá!!!
 
-##Technologies used:
+<h2>Technologies Used:</h2>
 
-c#
-Programação Orientada a objetos
+<table>
+  <tr>
+<td>C#</td>
+<td>POO</td>
+    </tr>
+</table>
+
+<h2>Contato</h2>
+Reynanwq@gmail.com
